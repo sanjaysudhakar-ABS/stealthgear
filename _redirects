@@ -1,0 +1,8 @@
+# Netlify redirects and form handling
+/success /success.html 200
+
+# Form submission endpoint
+/contact /index.html#contact 200
+
+# Trailing slash handling
+/* /index.html 200
